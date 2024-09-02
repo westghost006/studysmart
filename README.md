@@ -1,2 +1,2 @@
 # studysmart
-trabajo de apps nativas
+Trabajo de Apps Nativas
